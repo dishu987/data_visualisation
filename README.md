@@ -4,6 +4,8 @@
 2. `@nivo/pie`
 3. `create-react-app` with `@vite`
 4. Bootstrap 5
+5. ExpressJs
+6. Mongose and MongodB
 ## Commands
 ### Frontend
 1. `cd frontend/app`
