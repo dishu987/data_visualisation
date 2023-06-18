@@ -4,6 +4,15 @@
 2. `@nivo/pie`
 3. `create-react-app` with `@vite`
 4. Bootstrap 5
+## Commands
+### Frontend
+1. `cd frontend/app`
+2. `npm install`
+3. `npm run dev`
+### Backend
+1. `cd backend`
+2. `npm install`
+3. `nodemon index`
 ## Screenshots
 ![image](https://github.com/dishu987/data_visualisation/assets/95860279/05dd4bde-8924-4355-95c2-785dfd4d4386)
 
